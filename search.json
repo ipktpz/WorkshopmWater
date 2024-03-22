@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html#agenda",
+    "href": "index.html#agenda",
+    "title": "ipktpz.github.io",
+    "section": "Agenda",
+    "text": "Agenda\n\n\n\nAbout mWater\n\nCreating a mWater account\nLogging in to verify your email\n\n\n\n\nConducting surveys\n\nGet the Latest Forms\nStart a survey\nBasic question types\nNaming and finding draft surveys\nDeleting a survey\nChecking for data sync"
+  },
+  {
+    "objectID": "index.html#what-is-mwater-1",
+    "href": "index.html#what-is-mwater-1",
+    "title": "ipktpz.github.io",
+    "section": "What is mWater?",
+    "text": "What is mWater?\n\n\nmWater is a data collection, analysis, and visualization software platform. An entire water system can be mapped and managed down to the individual component level by mWater. Assets can be tracked; work can be planned and monitored. Maintenance issues can be reported and addressed."
+  },
+  {
+    "objectID": "index.html#what-is-mwater-2",
+    "href": "index.html#what-is-mwater-2",
+    "title": "ipktpz.github.io",
+    "section": "What is mWater?",
+    "text": "What is mWater?\n\nDesign flexible surveys online\nTrack geolocated Sites for collaborative, longitudinal monitoring\nCollect data using Android, iOS, or a browser\nImport and export data\nWork in multiple languages\nUse standard Indicators for the SDGs and more\nVisualize and map your live data online\nScale up to thousands of users and millions of surveys"
+  },
+  {
+    "objectID": "index.html#creating-a-mwater-account",
+    "href": "index.html#creating-a-mwater-account",
+    "title": "ipktpz.github.io",
+    "section": "Creating a mWater account",
+    "text": "Creating a mWater account\n\nGo to Play Store and, using the following link, install the mWater\n\nhttps://play.google.com/store/apps/details?id=co.mwater.clientapp&hl=en"
+  },
+  {
+    "objectID": "index.html#creating-a-mwater-account-1",
+    "href": "index.html#creating-a-mwater-account-1",
+    "title": "ipktpz.github.io",
+    "section": "Creating a mWater account",
+    "text": "Creating a mWater account\n\n\n\nSTEP 1: Open the mWater Surveyor and click on Signup  \n\n\n\nSTEP 2: Enter your name, username, email address and a secret memorable password  \n\n\n\n::: callout-important {style=“font-size:18px;”} Please check that your email address is correct before creating an account! :::"
+  },
+  {
+    "objectID": "index.html#logging-in-to-verify-your-email",
+    "href": "index.html#logging-in-to-verify-your-email",
+    "title": "ipktpz.github.io",
+    "section": "Logging in to verify your email",
+    "text": "Logging in to verify your email\nSTEP 3 Login with your username or your account’s email address.\n\n\n\n\n\n\nNote\n\n\nThe app always checks for updates. If a new version is available, you might be asked to restart. Always press OK."
+  },
+  {
+    "objectID": "index.html#logging-in-to-verify-your-email-1",
+    "href": "index.html#logging-in-to-verify-your-email-1",
+    "title": "ipktpz.github.io",
+    "section": "Logging in to verify your email",
+    "text": "Logging in to verify your email\n\nWhen you first log in using your email, you will be asked to confirm the email you used to create the account."
+  },
+  {
+    "objectID": "index.html#get-the-latest-forms",
+    "href": "index.html#get-the-latest-forms",
+    "title": "ipktpz.github.io",
+    "section": "Get the Latest Forms",
+    "text": "Get the Latest Forms\n\n\n\nAlways press Sync Now on the Home page to make sure you have the latest version of every survey\nYou do not need to search for forms deployed to you - they will be automatically downloaded"
+  },
+  {
+    "objectID": "index.html#start-a-survey",
+    "href": "index.html#start-a-survey",
+    "title": "ipktpz.github.io",
+    "section": "Start a survey",
+    "text": "Start a survey"
+  },
+  {
+    "objectID": "index.html#start-a-survey-1",
+    "href": "index.html#start-a-survey-1",
+    "title": "ipktpz.github.io",
+    "section": "Start a survey",
+    "text": "Start a survey"
+  },
+  {
+    "objectID": "index.html#basic-question-types",
+    "href": "index.html#basic-question-types",
+    "title": "ipktpz.github.io",
+    "section": "Basic question types",
+    "text": "Basic question types\n\n\nText: Enter text using the keyboard. Some text questions have multiple lines or may only accept certain formats like an email address."
+  },
+  {
+    "objectID": "index.html#basic-question-types-1",
+    "href": "index.html#basic-question-types-1",
+    "title": "ipktpz.github.io",
+    "section": "Basic question types",
+    "text": "Basic question types\n\n\nDate/time: Press the calendar to pick a date and time from a calendar. Use the arrows to navigate right and left on the calendar."
+  },
+  {
+    "objectID": "index.html#basic-question-types-2",
+    "href": "index.html#basic-question-types-2",
+    "title": "ipktpz.github.io",
+    "section": "Basic question types",
+    "text": "Basic question types\n\n\nNumber questions: Select the keyboard to enter numerical data. Some questions are set to only accept decimal or whole numbers."
+  },
+  {
+    "objectID": "index.html#basic-question-types-3",
+    "href": "index.html#basic-question-types-3",
+    "title": "ipktpz.github.io",
+    "section": "Basic question types",
+    "text": "Basic question types\n\n\nRadio question: Choose one option from a list. This is best for options that have a short list of questions"
+  },
+  {
+    "objectID": "index.html#basic-question-types-4",
+    "href": "index.html#basic-question-types-4",
+    "title": "ipktpz.github.io",
+    "section": "Basic question types",
+    "text": "Basic question types\n\n\nMulti-check: Choose multiple options from a list."
+  },
+  {
+    "objectID": "index.html#basic-question-types-5",
+    "href": "index.html#basic-question-types-5",
+    "title": "ipktpz.github.io",
+    "section": "Basic question types",
+    "text": "Basic question types\n\n\nGPS/Location: Record GPS location where question was answered\n\n\n\n\n\nImage(s): Use the camera or gallery to take one or more photo"
+  },
+  {
+    "objectID": "index.html#naming-and-finding-draft-surveys-1",
+    "href": "index.html#naming-and-finding-draft-surveys-1",
+    "title": "ipktpz.github.io",
+    "section": "Naming and finding draft surveys",
+    "text": "Naming and finding draft surveys\nmWater automatically saves any survey that you start. If you leave the app and come back, it will be saved in the Draft Surveys tab.\n\n\n\n\n\n\nCaution\n\n\nPlease check before deleting surveys, as they cannot be retrieved!"
+  },
+  {
+    "objectID": "index.html#deleting-a-survey-1",
+    "href": "index.html#deleting-a-survey-1",
+    "title": "ipktpz.github.io",
+    "section": "Deleting a survey",
+    "text": "Deleting a survey\n\n\n\n\n\n\nWarning\n\n\nDeleting a survey cannot be undone!"
+  },
+  {
+    "objectID": "index.html#checking-for-data-sync",
+    "href": "index.html#checking-for-data-sync",
+    "title": "ipktpz.github.io",
+    "section": "Checking for data sync",
+    "text": "Checking for data sync\n\n\n\nData upload includes form responses - mWater always syncs this data first\n\n\n\nImage upload - photos are synced after survey responses\n\n\n\nCache Sync - downloads updated data from mWater servers to your device\n\n\n\n\n\nMake sure sync is complete before working offline. Offline sync happens automatically every 20 minutes, and when you open the app."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
