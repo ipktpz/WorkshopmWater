@@ -1,1 +1,45 @@
 /* css styles */
+
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+
+// colors
+$body-bg: white !default;
+$body-color: #195079 !default;
+$link-color: #437597 !default;
+$selection-bg: #97BF0D !default;
+
+// headings
+$presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: #195079  !default;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
+
+.reveal .title {
+  color: white;
+}
+
+.reveal .subtitle {
+  color: white;
+}
+
+.quarto-title-author {
+    color: #ffffff;
+  }
+
+.reveal h1 {
+  color: #ffffff;
+
+}
+
+ .reveal .h {
+  color: #195079;
+}
