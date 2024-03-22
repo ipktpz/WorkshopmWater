@@ -5,7 +5,7 @@ author: "Griot Consulting Ltd."
 logo: logo.png
 format: 
   revealjs: 
-    theme: theme.scss
+    theme: styles.css
     incremental: true
     chalkboard: true
     multiplex: true
